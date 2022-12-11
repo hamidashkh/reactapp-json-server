@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Hamida Khalilova",
+      "phone": "0504442233"
+    },
+    {
+      "id": "2",
+      "name": "Hamida",
+      "phone": "050444443"
+    }
+  ]
+}
